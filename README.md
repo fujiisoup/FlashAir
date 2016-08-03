@@ -31,6 +31,8 @@ When tested, the delete feature of the FlashAir cards would cause the next file 
 4. `cd` to this folder, if you haven't already.
 5. Run `install.sh`. For a new FlashAir card that hasn't been named, the command will be
 
+```bash
     ./install.sh "/Volumes/NO NAME/"
+```
 
 Alternatively, you can install the files manually by following the Windows instructions.
